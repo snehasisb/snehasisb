@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Snehasis Banerjee
 - 👀 I’m interested in Cognitive Robotics.
-- 🌱 I’m currently learning Computer Science and Philosophy disciplines.
+- 🌱 I’m currently learning, practising and teaching Computer Science and Philosophy disciplines.
 - 💞️ I’m looking to collaborate on Artifical Consciousness, Self Aware Robots.
 - 📫 Reach me at joysnehasis@gmail.com
